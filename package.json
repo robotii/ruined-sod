@@ -1,0 +1,30 @@
+{
+  "name": "ruined-sod",
+  "version": "0.0.1",
+  "description": "A simple object dispatcher library for Node.js",
+  "main": "sod.js",
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robotii/ruined-sod.git"
+  },
+  "keywords": [
+    "dispatch",
+    "object",
+    "routing"
+  ],
+  "author": "Peter Arthur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robotii/ruined-sod/issues"
+  },
+  "homepage": "https://github.com/robotii/ruined-sod#readme"
+}
