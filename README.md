@@ -27,3 +27,11 @@ The following functions are available on the dispatcher by default.
 * debug
 * find
 * remove
+
+## TODO
+
+* Change to prototype-based system
+* Add default() method on module to return the default instance
+* Documentation
+* Get browser support working
+* Allow calling via `new`
